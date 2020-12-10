@@ -9,21 +9,16 @@ ${SWITCH_VISIVEL}    xpath=//android.widget.TextView[contains(@text,"visível")]
 
 *** Test Cases ***
 Ver meu saldo
-    Partiu tela inicial
     Touch no Saldo
     Meu saldo deve ser igual a    R$ 5.500,00
 
 Deixa conta visível
-    Partiu tela inicial
     Deslizar para as configs
     Configurar NuConta
     Switch NuConta visível
     NuConta deve estar visível
 
 ***Keywords***
-Partiu tela inicial
-    Wait Until Page Contains Element    accessibility_id=card-hero    10
-
 Touch no Saldo
     Click Element    accessibility_id=show-balance
 

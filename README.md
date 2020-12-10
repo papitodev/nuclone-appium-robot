@@ -8,7 +8,7 @@
 
 Você vai precisar das seguintes ferramentas e tecnologias:
 
-- [Python](https://expo.io/)
+- [Python](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/en/)
 - [Java JDK8](http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Android Studio](https://developer.android.com/studio/index.html?hl=pt-br)
@@ -60,6 +60,8 @@ source ~/.bashrc
 
 - Com o Node.js instalado, execute:
 
+  | Se estiver no Windows, execute no Prompt como Administrador
+
 ```bash
 npm install -g appium
 npm install -g appium-doctor
@@ -86,6 +88,7 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 
 - Abra o Appium Desktop e clique em Start Server;
 - Acesse a pasta do projeto;
+- Execute o comando: `pip install -r requirements.txt`
 - Execute o comando: `robot -d ./logs tests'`;
 - Enjoy.
 

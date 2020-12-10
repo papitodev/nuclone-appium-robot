@@ -17,6 +17,8 @@ Abrir app
     ...                 automationName=uiautomator2
     ...                 autoGrantPermissions=true
 
+    Wait Until Page Contains Element    accessibility_id=card-hero    10
+
 Fechar app
     Capture Page Screenshot
     Close Application
