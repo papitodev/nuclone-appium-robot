@@ -53,7 +53,7 @@ source ~/.bashrc
 
 ### No Windows
 
-[![Audi R8](https://www.phhsnews.com/img/how-to-2018/how-to-install-windows-3.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
+[![Audi R8](.github/windows.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
 
 
 ## 📱Appium 
@@ -92,7 +92,7 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 ---
 
 <h1 align="left">
-    <img alt="QAcademy" src=".github/logo.png" width="250px" />
+    <img alt="QAcademy" src=".github/logo.png" width="150px" />
 </h1>
 
 Feito com ♥ in OZ :wave: [Saiba mais aqui!](https://www.qacademy.io/)
