@@ -88,7 +88,7 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 
 - Abra o Appium Desktop e clique em Start Server;
 - Acesse a pasta do projeto;
-- Execute o comando: `pip install -r requirements.txt`
+- Instale o Robot e a Lib do Appium conforme descrito na [doc](https://robotframework.org/);
 - Execute o comando: `robot -d ./logs tests'`;
 - Enjoy.
 
