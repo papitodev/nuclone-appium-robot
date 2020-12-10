@@ -98,4 +98,8 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
     <img alt="QAcademy" src=".github/logo.png" width="150px" />
 </h1>
 
+## 👨‍💻 Meu curso de Robot com Appium
+
+- [No Dojo da QA Ninja](https://dojo.qaninja.com.br/curso/introducao-ao-appium-com-robot-framework/)
+
 Feito com ♥ in OZ :wave: [Saiba mais aqui!](https://www.qacademy.io/)
