@@ -95,7 +95,7 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 ---
 
 <h1 align="left">
-    <img alt="QAninja Academy" src=".github/logo.png" width="150px" />
+    <img alt="QAninja Academy" src=".github/logo-qaninja.png" width="150px" />
 </h1>
 
 ## 👨‍💻 Meu curso de Robot com Appium
