@@ -76,7 +76,7 @@ appium-doctor --android
 - Deve aprensentar um resultado similar ao da imagem abaixo:
 
 <h1 align="left">
-    <img alt="QAcademy" src=".github/doctor.png" width="100%" />
+    <img alt="QAninja Academy" src=".github/doctor.png" width="100%" />
 </h1>
 
 ## 📱Appium Desktop
@@ -95,11 +95,11 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 ---
 
 <h1 align="left">
-    <img alt="QAcademy" src=".github/logo.png" width="150px" />
+    <img alt="QAninja Academy" src=".github/logo.png" width="150px" />
 </h1>
 
 ## 👨‍💻 Meu curso de Robot com Appium
 
-- [No Dojo da QA Ninja](https://dojo.qaninja.com.br/curso/introducao-ao-appium-com-robot-framework/)
+- [No Dojo da QA Ninja](https://qaninja.academy/curso/introducao-ao-appium-com-robot-framework/)
 
-Feito com ♥ in OZ :wave: [Saiba mais aqui!](https://www.qacademy.io/)
+Feito com ♥ in OZ :wave: [Saiba mais aqui!](https://qaninja.academy)
